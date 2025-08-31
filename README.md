@@ -7,7 +7,7 @@
 ## Установка и запуск (Dev)
 ### Backend
 ```bash
-git clone <backend-repo>
+git clone https://github.com/ySadbanana/bailanysta-back
 cd backend
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
